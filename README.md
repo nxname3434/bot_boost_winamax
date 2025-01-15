@@ -1,4 +1,4 @@
-# bot_cote_boost-e_winamax
+# bot_boost_winamax
 
 Un partage de code et une stratégie exhaustive afin de prendre automatiquement toutes les grosses cotes boostées winamax. 
 
